@@ -158,6 +158,7 @@
         <label>Language Course Instructor Name</label>
         <type>Text</type>
     </nameField>
+    
     <pluralLabel>Language Course Instructors</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
